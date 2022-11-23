@@ -1,0 +1,19 @@
+{
+  "desc": {
+    "welcome-title": "Hello GitHelper! Everything is ready.",
+    "welcome-desc": "You are currently on the first commit of GitHelper",
+    "second-desc": "You are currently on the second page of GitHelper"
+  },
+  "title": {
+    "main": "First page",
+    "second": "Second page",
+    "error": "Error"
+  },
+  "menu": {
+    "change-theme": "Change theme",
+    "change-language": "Change language",
+    "increase-count": "Increase counter",
+    "documentation": "Documentation",
+    "github": "Source code"
+  }
+}
